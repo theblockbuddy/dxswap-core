@@ -37,7 +37,7 @@
   },
   "espento": {
     "deployer": "0x7913F1BbcF9fE87C6E9885A7A6D62883bE416Ea4",
-    "factory": "0xc01026ADaE1c62C755F0dDf3dDbb07f47B4fD8A0",
+    "factory": "0xe023ab1a6ddC017AafbBA52b94187065C15B1C43",
     "feeReceiver": "0x7913F1BbcF9fE87C6E9885A7A6D62883bE416Ea4",
     "feeSetter": "0x7913F1BbcF9fE87C6E9885A7A6D62883bE416Ea4"
   }
